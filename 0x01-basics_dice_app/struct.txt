@@ -1,0 +1,3 @@
+Your application code is in dice/lib/main.dart.
+
+1. To run your app: flutter run
